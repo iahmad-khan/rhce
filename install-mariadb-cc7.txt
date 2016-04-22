@@ -1,3 +1,7 @@
+    
+    #installation and initial configuration of mariadb client and server
+    #on rhel7/cc7
+    
     3  yum install mariadb mariadb-client
     4  yum groups install mariadb mariadb-client
     5  vi /etc/my.cnf
